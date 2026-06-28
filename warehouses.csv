@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,city,state,capacity
+1,Warehouse 1,Jamnagar,Uttar Pradesh,19308
+2,Warehouse 2,Hubli–Dharwad,Rajasthan,15977
+3,Warehouse 3,Gangtok,Chhattisgarh,19904
+4,Warehouse 4,Nadiad,Odisha,8600
+5,Warehouse 5,Phagwara,Bihar,13241
+6,Warehouse 6,Nizamabad,Tripura,9315
+7,Warehouse 7,Ramgarh,Nagaland,13127
+8,Warehouse 8,Amroha,Kerala,11235
+9,Warehouse 9,Ghaziabad,Karnataka,12766
+10,Warehouse 10,Delhi,Goa,13310
+11,Warehouse 11,Guntakal,Uttarakhand,12727
+12,Warehouse 12,Fatehpur,Odisha,15217
+13,Warehouse 13,Bhilai,Nagaland,13098
+14,Warehouse 14,South Dumdum,Maharashtra,5473
+15,Warehouse 15,Solapur,Chhattisgarh,11565
+16,Warehouse 16,Dibrugarh,Arunachal Pradesh,18461
+17,Warehouse 17,Vadodara,Arunachal Pradesh,16058
+18,Warehouse 18,Solapur,Telangana,5413
+19,Warehouse 19,Bikaner,West Bengal,8938
+20,Warehouse 20,Proddatur,Jharkhand,10164

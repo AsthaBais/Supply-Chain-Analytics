@@ -1,0 +1,101 @@
+supplier_id,supplier_name,city,state,rating
+1,"Raju, Dhar and Balan",Jorhat,Bihar,4.3
+2,"Prabhakar, Bhatti and Manda",Gwalior,Kerala,4.1
+3,Jaggi and Sons,Tadepalligudem,West Bengal,4.5
+4,Kata-Kannan,Allahabad,Mizoram,4.8
+5,Mody-Goswami,Bellary,Tripura,4.5
+6,Wadhwa Ltd,Ghaziabad,Tripura,3.9
+7,Iyengar-Kota,Tirupati,Assam,4.1
+8,Borah PLC,Coimbatore,Tamil Nadu,4.2
+9,Bali PLC,Bijapur,Kerala,4.1
+10,Lad Ltd,Raichur,Andhra Pradesh,4.4
+11,"Shankar, Radhakrishnan and Nagar",Vasai-Virar,Jharkhand,4.3
+12,More-Purohit,Gudivada,Chhattisgarh,4.8
+13,Rout LLC,Kirari Suleman Nagar,Madhya Pradesh,4.4
+14,Dass-Sem,Panchkula,Punjab,4.4
+15,"Gulati, Suresh and Soni",Moradabad,Rajasthan,4.5
+16,Sule PLC,Nadiad,Jharkhand,4.3
+17,Shankar Ltd,Bilaspur,Bihar,3.7
+18,Lala-Karpe,Noida,Madhya Pradesh,4.2
+19,Lal LLC,Sri Ganganagar,Kerala,4.2
+20,Lad Group,Rohtak,Arunachal Pradesh,4.2
+21,Anand-Dara,South Dumdum,Punjab,4.0
+22,Bora-Viswanathan,Bhubaneswar,Punjab,3.7
+23,"Savant, Thaker and Nori",Sambalpur,Karnataka,3.8
+24,Bumb PLC,Bardhaman,Kerala,3.7
+25,Sampath-Cherian,Mirzapur,Tamil Nadu,4.6
+26,Soman Ltd,Vellore,Gujarat,4.7
+27,Wali Group,Avadi,Assam,4.6
+28,"Bhardwaj, Panchal and Sharaf",Tiruchirappalli,Maharashtra,4.9
+29,Chada-Sibal,Nagaon,Rajasthan,4.0
+30,Chatterjee-Sheth,Alwar,Punjab,4.4
+31,"Khurana, Deshmukh and Bhat",Delhi,Haryana,4.2
+32,Andra-Tailor,Kakinada,Mizoram,4.1
+33,"Ghosh, Rai and Randhawa",Kollam,Odisha,4.7
+34,Krishnan-Sunder,Berhampur,Telangana,3.9
+35,"Goyal, Iyer and Mander",Noida,Odisha,4.1
+36,Parikh-Ravel,Unnao,Mizoram,3.6
+37,Soman-Bora,Satna,Chhattisgarh,3.8
+38,Varma and Sons,Amaravati,Assam,4.4
+39,Kumar-Oommen,Amroha,Jharkhand,4.8
+40,"Uppal, Shenoy and Mistry",Tirunelveli,Uttarakhand,4.3
+41,Kalita Group,Arrah,Himachal Pradesh,3.6
+42,Sangha-Sridhar,Sagar,Himachal Pradesh,3.5
+43,"Boase, Kannan and Kuruvilla",Sri Ganganagar,Nagaland,4.0
+44,Uppal and Sons,Jalna,Punjab,4.6
+45,"Rastogi, Tara and Mohan",Giridih,Manipur,3.7
+46,"Bose, Dara and Nayak",Thoothukudi,Sikkim,4.1
+47,Minhas Inc,Malegaon,Tamil Nadu,3.8
+48,Sankar Inc,Ozhukarai,Sikkim,4.3
+49,Chaudhry Inc,Guntur,Uttarakhand,3.9
+50,Rajagopal Inc,Thoothukudi,Haryana,4.7
+51,"Pingle, Wali and Lad",Thanjavur,Chhattisgarh,3.9
+52,Hayre Ltd,Karaikudi,Kerala,4.7
+53,"Vora, Bava and Dasgupta",Buxar,Telangana,4.2
+54,Sankar LLC,Jodhpur,Manipur,3.9
+55,Boase-Sahni,Firozabad,Maharashtra,4.7
+56,Bajwa Ltd,Ulhasnagar,Karnataka,4.4
+57,Palla-Bhat,Morena,Rajasthan,4.7
+58,Hayer-Chaudhry,Amaravati,Karnataka,4.6
+59,Sangha LLC,Bhiwani,Mizoram,4.2
+60,Rege Ltd,Ongole,Meghalaya,4.6
+61,Lanka LLC,Madurai,Madhya Pradesh,4.3
+62,"Mani, Chanda and Naik",Vellore,Sikkim,4.5
+63,"Loke, Sarna and Mital",Shivpuri,Chhattisgarh,3.7
+64,Sami PLC,Amravati,Meghalaya,3.5
+65,Magar Group,Loni,Madhya Pradesh,4.3
+66,Kala Group,Anantapur,Maharashtra,4.0
+67,Agrawal Inc,Barasat,Mizoram,4.6
+68,Jani-Dube,Rampur,Goa,3.7
+69,Cherian-Tak,Tiruvottiyur,Tripura,4.3
+70,"Contractor, Anand and Sura",Ballia,Uttarakhand,4.1
+71,"Butala, Amble and Pillay",Bijapur,Karnataka,4.6
+72,"Sharma, Borah and Halder",Rampur,Mizoram,4.0
+73,Shankar Ltd,Panihati,West Bengal,4.1
+74,Prasad-Garg,Jhansi,Arunachal Pradesh,4.0
+75,"Grewal, Wable and Mody",Katihar,Manipur,4.7
+76,Sahota-Mistry,Burhanpur,Bihar,3.9
+77,"Bhavsar, Mahajan and Singhal",Solapur,Uttarakhand,4.8
+78,"Dugar, Raval and Bakshi",Gandhinagar,Karnataka,3.6
+79,Basak Group,Coimbatore,Sikkim,3.8
+80,Setty Inc,Dhule,Arunachal Pradesh,4.6
+81,Bansal and Sons,Patiala,Punjab,3.9
+82,"D’Alia, Amble and Salvi",Shahjahanpur,Bihar,4.0
+83,Sachdev Ltd,Loni,Gujarat,4.8
+84,"Mutti, Goel and Kapadia",Karaikudi,Uttarakhand,4.6
+85,"Chandra, Krish and Kibe",Pune,Bihar,4.4
+86,Kulkarni-Kara,Ludhiana,Odisha,4.8
+87,Ghose-Gandhi,Aurangabad,Meghalaya,4.8
+88,Nori and Sons,Karaikudi,Haryana,3.8
+89,Pradhan and Sons,Agra,Sikkim,3.7
+90,Lal-Krish,Purnia,Kerala,4.0
+91,Krish Inc,Kolhapur,Uttarakhand,4.0
+92,Tiwari Ltd,Amritsar,Tamil Nadu,4.9
+93,Kata-Kalita,Chandrapur,Kerala,4.2
+94,"Lala, Joshi and Sethi",Ludhiana,Haryana,4.5
+95,Saha-Gour,Yamunanagar,Haryana,4.3
+96,Bajaj-Agate,Kavali,Assam,3.7
+97,Bhatti Group,Ujjain,Assam,4.0
+98,Deep-Chad,Madurai,Uttar Pradesh,3.5
+99,Kara Group,Sonipat,Tripura,3.7
+100,Warrior and Sons,Thrissur,Arunachal Pradesh,5.0
